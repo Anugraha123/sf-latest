@@ -1,0 +1,14 @@
+{
+  "name": "sf-latest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anugraha.acharya@dragonlaw.com.hk",
+  "license": "ISC",
+  "dependencies": {
+    "@syncfusion/ej2-react-documenteditor": "20.1.47"
+  }
+}
